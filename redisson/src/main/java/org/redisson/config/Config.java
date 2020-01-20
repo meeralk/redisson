@@ -241,7 +241,7 @@ public class Config {
      * 
      * @return ConnectionManager
      */
-    ConnectionManager getConnectionManager() {
+    public ConnectionManager getConnectionManager() {
         return connectionManager;
     }
 
